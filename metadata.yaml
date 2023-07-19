@@ -1,0 +1,26 @@
+_repo: Won-at-Last-b-or-Mrs-Briscoe-s-Nephews_71133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giberne, Agnes
+    birthdate: 1845
+    deathdate: 1939
+    gutenberg_agent_id: '47772'
+    url: http://www.gutenberg.org/2009/agents/47772
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
+description: ''
+gutenberg_issued: '2023-07-06'
+identifiers:
+  gutenberg: '71133'
+language: en
+pgterms:marc905: 20230627191142giberne
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bJohn F. Shaw and Co., $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Won at Last : $b or Mrs. Briscoe''s Nephews'
+url: http://www.gutenberg.org/ebooks/71133
